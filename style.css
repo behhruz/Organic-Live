@@ -773,8 +773,19 @@
   margin-top: 220px;
   /* margin-left: 40px; */
   position: absolute;
-  top: 300px;
+  top: 280px;
   left: 70px;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+.fx{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.somcha3{
+  font-size: 30px;
 }
 }
 
