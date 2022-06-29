@@ -787,5 +787,20 @@
 .somcha3{
   font-size: 30px;
 }
+.big {
+  font-family: "Rosario";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 90px;
+  color: #222222;
+  margin: 0 50px;
+  width: 300px;
+}
+.sidebar {
+  width: 98vw;
+  height: 720px;
+  background-color: white;
+}
 }
 
