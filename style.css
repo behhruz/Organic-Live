@@ -961,6 +961,9 @@
   margin-left: -100px;
   margin-top: -60px;
 }
+.ict{
+  display: none;
+}
 
 
 .down {
@@ -996,6 +999,20 @@
 }
 .unv {
   display: flex;
-  margin-left: -80px;
+  margin-left: -70px;
+}
+.ohurgi {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 100px;
+  flex-direction: column;
+}
+.ohurgi div {
+  margin: 0 40px;
+  margin-left: -140px;
+}
+.txt2{
+  margin: 0 60px;
 }
 }
