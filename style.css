@@ -748,7 +748,7 @@
     position: absolute;
     width: 250.01px;
     height: 90px;
-    left: 90.49px;
+    left: 60.49px;
     top: 165.97px;
     font-family: "DM Sans";
     font-style: normal;
@@ -766,8 +766,12 @@
   background-blend-mode: darken;
   z-index: 1;
   position: absolute;
-  margin: 0 60px;
+  margin: 0 40px;
   top: 290px;
+}
+.som{
+  margin-top: 220px;
+  margin-left: 40px;
 }
 }
 
