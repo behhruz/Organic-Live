@@ -323,6 +323,7 @@
 }
 .orab2 {
   display: flex;
+  justify-content: space-between;
 }
 .order {
   margin: 40px 0;
@@ -882,4 +883,18 @@
     width: 280px;
   margin-left: 150px;
   }
+  .fresh {
+    width: 200px;
+    margin-right: 55px;
+}
+.arrrr{
+  width: 35px;
+  height: 35px;
+  margin-top: 50px;
+  margin-left: 180px;
+}
+.order{
+  
+  z-index: 999;
+}
 }
