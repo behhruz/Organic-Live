@@ -907,7 +907,7 @@
     line-height: 90px;
     width: 600px;
     color: #222222;
-    margin-left: -65px;
+    margin-left: -75px;
     margin-top: -100px;
 }
 .lrm {
@@ -918,7 +918,7 @@
   line-height: 30px;
   color: #555555;
   width: 300px;
-  margin-left: -50px;
+  margin-left: -65px;
   margin-top: -20px;
 }
 .div1{
@@ -932,7 +932,21 @@
   margin-left: 15px;
 }
 .vect{
-  margin-left: 27px;
+  margin-left: 22px;
   margin-top: 20px;
+}
+.vec1{
+  width: 50px;
+
+}
+.vec2{
+  width: 50px;
+}
+.boh {
+  width: 200px;
+  margin: 90px 100px;
+  transition: all 2s;
+  margin-left: -5px;
+  margin-top: 40px;
 }
 }
