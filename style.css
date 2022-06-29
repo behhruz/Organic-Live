@@ -898,4 +898,41 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+.what {
+    font-family: "Rosario";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 90px;
+    width: 600px;
+    color: #222222;
+    margin-left: -55px;
+    margin-top: -100px;
+}
+.lrm {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 30px;
+  color: #555555;
+  width: 300px;
+  margin-left: -40px;
+  margin-top: -20px;
+}
+.div1{
+  display: flex;
+  flex-direction: column;
+}
+.ahmed{
+  font-size: 20px;
+}
+.vsi{
+  margin-left: 40px;
+}
+.vect{
+  margin-left: 52px;
+  margin-top: 20px;
+}
 }
