@@ -696,12 +696,12 @@
     /* background-color: antiquewhite; */
     margin: 0;
     display: flex;
-    
+
     align-items: center;
     justify-content: space-between;
     position: sticky;
     top: 0px;
-    background-color:rgba(255, 255, 255, 0.819);
+    background-color: rgba(255, 255, 255, 0.819);
     border-radius: 10px;
     z-index: 1000;
     font-family: "Open Sans", sans-serif;
@@ -713,15 +713,61 @@
     width: 50px;
     display: flex;
   }
-  .nav2{
+  .nav2 {
     width: 170px;
   }
-  .btn1{
+  .btn1 {
     font-size: 10px;
     width: 100px;
   }
-  .rasm{
+  .rasm {
     display: none;
   }
- 
+  .rasm2 {
+    width: 300px;
+    height: 200px;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+  .organ {
+    font-family: "Rosario";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 90px;
+    color: #222222;
+    z-index:9;
+    position: absolute;
+    top: 100px;
+    left: 80px;
 }
+
+.may {
+    position: absolute;
+    width: 250.01px;
+    height: 90px;
+    left: 90.49px;
+    top: 165.97px;
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 30px;
+    text-align: center;
+    color: #555555;
+    z-index: 10;
+}
+.rasm3 {
+  width: 300.18px;
+  height: 200.52px;
+  background: url(vegetables-fruits-white_55883-892.jpg);
+  background-blend-mode: darken;
+  z-index: 1;
+  position: absolute;
+  margin: 0 60px;
+  top: 290px;
+}
+}
+
