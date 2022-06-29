@@ -837,8 +837,26 @@ height: 20px;
 .orab {
   flex-direction: column;
   justify-content: space-between;
-  margin-left: -px;
+  margin-bottom: -25px;
 }
+.rsm {
+  width: 250px;
+  height: 250px;
+  margin-top: -70px;
+  margin-left: -20px;
+}
+.rass {
+  width: 250px;
+  height: 250px;
+  left: 70.19px;
+  top: 2152.76px;
+  background: #09a66d;
+  margin: 50px 100px;
+}
+.menu{
+  display: flex;
+  flex-direction: column;
 
+}
 }
 
