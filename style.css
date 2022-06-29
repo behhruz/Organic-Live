@@ -837,7 +837,7 @@ height: 20px;
 .orab {
   flex-direction: column;
   justify-content: space-between;
-  margin-left: -25px;
+  margin-left: -px;
 }
 
 }
