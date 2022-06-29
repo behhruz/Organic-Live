@@ -261,19 +261,20 @@
 .head2 {
   margin-top: -50px;
 }
+.strelka {
+  display: none;
+}
 .rsm {
-  width: 450px;
-  height: 450px;
-  margin-top: -70px;
+  width: 350px;
+  height: 350px;
+  margin-top: 60px;
 }
 
 .rass {
   width: 500px;
   height: 500px;
-  left: 100.19px;
-  top: 2152.76px;
   background: #09a66d;
-  margin: 50px 100px;
+  /* margin: 50px 100px; */
 }
 .menu {
   margin: 0;
@@ -281,7 +282,7 @@
   justify-content: space-between;
   background-color: rgba(9, 166, 109, 0.05);
   width: 100%;
-  height: 650px;
+  height: fit-content;
   margin-bottom: 80px;
 }
 .explor {
@@ -294,7 +295,7 @@
   color: #222222;
 }
 .yozuv8 {
-  margin: 50px 0;
+  /* margin: 50px 0;/ */
 }
 .lorem {
   font-family: "DM Sans";
@@ -738,13 +739,13 @@
     font-size: 25px;
     line-height: 90px;
     color: #222222;
-    z-index:9;
+    z-index: 9;
     position: absolute;
     top: 100px;
     left: 52px;
-}
+  }
 
-.may {
+  .may {
     position: absolute;
     width: 250.01px;
     height: 90px;
@@ -758,126 +759,127 @@
     text-align: center;
     color: #555555;
     z-index: 10;
-}
-.rasm3 {
-  width: 300.18px;
-  height: 200.52px;
-  background: url(vegetables-fruits-white_55883-892.jpg);
-  background-blend-mode: darken;
-  z-index: 1;
-  position: absolute;
-  margin: 0 40px;
-  top: 290px;
-}
-.som{
-  margin-top: 220px;
-  /* margin-left: 40px; */
-  position: absolute;
-  top: 280px;
-  left: 70px;
-  /* display: flex;
+  }
+  .rasm3 {
+    width: 300.18px;
+    height: 200.52px;
+    background: url(vegetables-fruits-white_55883-892.jpg);
+    background-blend-mode: darken;
+    z-index: 1;
+    position: absolute;
+    margin: 0 40px;
+    top: 290px;
+  }
+  .som {
+    margin-top: 220px;
+    /* margin-left: 40px; */
+    position: absolute;
+    top: 280px;
+    left: 70px;
+    /* display: flex;
   align-items: center;
   justify-content: center; */
+  }
+  .fx {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .somcha3 {
+    font-size: 30px;
+  }
+  .big {
+    font-family: "Rosario";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 90px;
+    color: #222222;
+    margin: 0 60px;
+    width: 300px;
+  }
+  .sidebar {
+    width: 98vw;
+    height: 720px;
+    background-color: white;
+  }
+  .bigs {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 30px;
+    width: 600px;
+    margin: -20px 50px;
+    color: #555555;
+    margin-bottom: 17px;
+    width: 280px;
+  }
+  .header1 {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 10px 0;
+  }
+  .kkk {
+    width: 30px;
+    height: 30px;
+    margin-top: 12px;
+  }
+  .kol {
+    width: 20px;
+    height: 20px;
+  }
+  .kkk1 {
+    font-size: 16px;
+  }
+  .kkk2 {
+    font-size: 12px;
+    width: 200px;
+  }
+  .orab {
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: -25px;
+  }
+  .rsm {
+    width: 150px;
+    height: 150px;
+    /* margin-top: -70px;
+  margin-left: -170px; */
+  }
+  .rass {
+    width: 150px;
+    height: 150px;
+    /* margin: -200 100px; */
+    background: #09a66d;
+    margin: 50px 0 0 0;
+    border-radius: 10px;
+  }
+  .menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .explor {
+    font-family: "Rosario";
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 22px;
+    /* line-height: 90px; */
+    color: #222222;
+    /* margin: 0 auto; */
+  margin-left: 165px;
+    width: 100vw;
+  }
+  .lorem {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 30px;
+    color: #555555;
+    width: 280px;
+  margin-left: 150px;
+  }
 }
-.fx{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.somcha3{
-  font-size: 30px;
-}
-.big {
-  font-family: "Rosario";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 25px;
-  line-height: 90px;
-  color: #222222;
-  margin: 0 60px;
-  width: 300px;
-}
-.sidebar {
-  width: 98vw;
-  height: 720px;
-  background-color: white;
-}
-.bigs {
-  font-family: "DM Sans";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 30px;
-  width: 600px;
-  margin: -20px 50px;
-  color: #555555;
-  margin-bottom: 17px;
-  width: 280px;
-}
-.header1{
-  display: flex;
-  flex-direction: column;
-}
-.kkk{
-  width: 30px;
-  height: 30px;
-  margin-top: 12px;
-}
-.kol{
-width: 20px;
-height: 20px;
-}
-.kkk1{
-  font-size: 16px;
-}
-.kkk2{
-  font-size: 12px;
-  width: 200px;
-}
-.orab {
-  flex-direction: column;
-  justify-content: space-between;
-  margin-bottom: -25px;
-}
-.rsm {
-  width: 250px;
-  height: 250px;
-  margin-top: -70px;
-  margin-left: -20px;
-}
-.rass {
-  width: 250px;
-  height: 250px;
-  left: 50.19px;
-  top: 2152.76px;
-  background: #09a66d;
-  margin: 10px 65px;
-}
-.menu{
-  display: flex;
-  flex-direction: column;
-
-}
-.explor {
-  font-family: "Rosario";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 22px;
-  line-height: 90px;
-  color: #222222;
- 
-  margin: -40px 70px ;
-  width: 320px;
-}
-.lorem {
-  font-family: "DM Sans";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 30px;
-  color: #555555;
-  width: 280px;
-  margin: 20px 55px;
-}
-}
-
