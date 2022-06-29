@@ -907,7 +907,7 @@
     line-height: 90px;
     width: 600px;
     color: #222222;
-    margin-left: -55px;
+    margin-left: -65px;
     margin-top: -100px;
 }
 .lrm {
@@ -918,7 +918,7 @@
   line-height: 30px;
   color: #555555;
   width: 300px;
-  margin-left: -40px;
+  margin-left: -50px;
   margin-top: -20px;
 }
 .div1{
@@ -929,10 +929,10 @@
   font-size: 20px;
 }
 .vsi{
-  margin-left: 40px;
+  margin-left: 15px;
 }
 .vect{
-  margin-left: 52px;
+  margin-left: 27px;
   margin-top: 20px;
 }
 }
