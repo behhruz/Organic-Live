@@ -794,13 +794,25 @@
   font-size: 25px;
   line-height: 90px;
   color: #222222;
-  margin: 0 65px;
+  margin: 0 60px;
   width: 300px;
 }
 .sidebar {
   width: 98vw;
   height: 720px;
   background-color: white;
+}
+.bigs {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 30px;
+  width: 600px;
+  margin: -20px 50px;
+  color: #555555;
+  margin-bottom: 37px;
+  width: 280px;
 }
 }
 
