@@ -1,4 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans&display=swap");
+body{
+  overflow: hidden;
+} 
+
+
 * {
   margin: 0;
   padding: 0;
@@ -1013,6 +1018,9 @@
   margin-left: -140px;
 }
 .txt2{
-  margin: 0 60px;
+  margin: -10px 20px;
+}
+.icons1{
+  margin-left: 10px;
 }
 }
